@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "CasoT2-db/1.0.0": {
+        "runtime": {
+          "CasoT2-db.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CasoT2-db/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
