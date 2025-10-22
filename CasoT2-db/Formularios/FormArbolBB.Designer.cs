@@ -121,7 +121,7 @@
             label4.Name = "label4";
             label4.Size = new Size(220, 23);
             label4.TabIndex = 6;
-            label4.Text = "Mostrando el Arbol Binario:";
+            label4.Text = "Mostrando el Árbol Binario:";
             // 
             // button2
             // 
@@ -157,7 +157,7 @@
             label2.Name = "label2";
             label2.Size = new Size(291, 23);
             label2.TabIndex = 2;
-            label2.Text = "Añadiendo números al Arbol Binario";
+            label2.Text = "Añadiendo números al Árbol Binario";
             // 
             // button1
             // 
@@ -178,7 +178,7 @@
             label1.Name = "label1";
             label1.Size = new Size(363, 37);
             label1.TabIndex = 0;
-            label1.Text = "Busqueda por Arbol Binario";
+            label1.Text = "Busqueda por Árbol Binario";
             // 
             // FormArbolBB
             // 

@@ -21,7 +21,12 @@ namespace CasoT2_db.Formularios
 
         private void abrirElVideo_ExplicandoCodigoEjemplo1_Click(object sender, EventArgs e)
         {
-            //AbrirUrl.AbrirEnNavegador("Poner la URL del video acá");
+            AbrirUrl.AbrirEnNavegador("https://drive.google.com/file/d/1TqmbSEbw_EFPjOn3wGcuvm831JqCqIrC/view?usp=sharing");
+        }
+
+        private void verDiapositiva_Click(object sender, EventArgs e)
+        {
+            AbrirUrl.AbrirEnNavegador("https://prezi.com/view/eB9zgrSbEt0PiqHkinej/?referral_token=qANHITlnB3FN");
         }
     }
 }

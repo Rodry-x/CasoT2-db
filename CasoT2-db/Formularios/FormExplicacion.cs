@@ -10,15 +10,15 @@ namespace CasoT2_db.Formularios
             InitializeComponent();
         }
 
-        private FormPrincipal formPrincipal;
+        private FormExplicacion1 formExplicacion1;
         private FormExplicacion2 formExplicacion2;
 
         public Panel PanelExplicacion => panelExplicacion;
 
         private void cambiarAlPanelPrincipal(object sender, EventArgs e)
         {
-            formPrincipal = new FormPrincipal();
-            PanelController.CambiarPanel(panelExplicacion, formPrincipal.PanelPrincipal);
+            formExplicacion1 = new FormExplicacion1();
+            PanelController.CambiarPanel(panelExplicacion, formExplicacion1.PanelExplicacion1);
         }
 
         private void abrirLinkDelDiagrama_Click(object sender, EventArgs e)

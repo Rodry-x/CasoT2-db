@@ -20,3 +20,4 @@ C:\Users\rodry\source\repos\CasoT2-db\CasoT2-db\obj\Debug\net8.0-windows\CasoT2_
 C:\Users\rodry\source\repos\CasoT2-db\CasoT2-db\obj\Debug\net8.0-windows\CasoT2_db.Formularios.FormExplicacion2.resources
 C:\Users\rodry\source\repos\CasoT2-db\CasoT2-db\obj\Debug\net8.0-windows\CasoT2_db.Formularios.FormArbolBB_Ejemplo.resources
 C:\Users\rodry\source\repos\CasoT2-db\CasoT2-db\obj\Debug\net8.0-windows\CasoT2-db.sourcelink.json
+C:\Users\rodry\source\repos\CasoT2-db\CasoT2-db\obj\Debug\net8.0-windows\CasoT2_db.Formularios.FormExplicacion1.resources

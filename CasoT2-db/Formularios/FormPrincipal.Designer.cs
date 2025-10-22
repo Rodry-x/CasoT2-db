@@ -108,7 +108,7 @@
             // 
             label3.AutoSize = true;
             label3.Font = new Font("SimSun", 16.2F, FontStyle.Bold | FontStyle.Italic, GraphicsUnit.Point, 0);
-            label3.Location = new Point(87, 113);
+            label3.Location = new Point(83, 113);
             label3.Name = "label3";
             label3.Size = new Size(117, 28);
             label3.TabIndex = 2;

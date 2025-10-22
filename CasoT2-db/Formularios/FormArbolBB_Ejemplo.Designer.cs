@@ -30,6 +30,7 @@
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(FormArbolBB_Ejemplo));
             panelArbolEjercicio1 = new Panel();
+            label8 = new Label();
             button4 = new Button();
             txtBuscar = new TextBox();
             label7 = new Label();
@@ -45,7 +46,6 @@
             label2 = new Label();
             label1 = new Label();
             button1 = new Button();
-            label8 = new Label();
             panelArbolEjercicio1.SuspendLayout();
             SuspendLayout();
             // 
@@ -71,6 +71,16 @@
             panelArbolEjercicio1.Name = "panelArbolEjercicio1";
             panelArbolEjercicio1.Size = new Size(550, 630);
             panelArbolEjercicio1.TabIndex = 0;
+            // 
+            // label8
+            // 
+            label8.AutoSize = true;
+            label8.Font = new Font("Segoe UI Semibold", 10.2F, FontStyle.Bold | FontStyle.Italic, GraphicsUnit.Point, 0);
+            label8.Location = new Point(331, 258);
+            label8.Name = "label8";
+            label8.Size = new Size(172, 23);
+            label8.TabIndex = 15;
+            label8.Text = "Ordenar por InOrden";
             // 
             // button4
             // 
@@ -170,7 +180,7 @@
             // 
             // label3
             // 
-            label3.Location = new Point(25, 96);
+            label3.Location = new Point(25, 97);
             label3.Name = "label3";
             label3.Size = new Size(505, 135);
             label3.TabIndex = 3;
@@ -182,9 +192,9 @@
             label2.Font = new Font("Segoe UI Semibold", 10.2F, FontStyle.Bold | FontStyle.Italic, GraphicsUnit.Point, 0);
             label2.Location = new Point(21, 67);
             label2.Name = "label2";
-            label2.Size = new Size(163, 23);
+            label2.Size = new Size(386, 23);
             label2.TabIndex = 2;
-            label2.Text = "Ejemplo 1 (Carlitos):";
+            label2.Text = "Ejemplo por busqueda InOrden (Carlitos y Jerry):";
             // 
             // label1
             // 
@@ -194,7 +204,7 @@
             label1.Name = "label1";
             label1.Size = new Size(363, 37);
             label1.TabIndex = 1;
-            label1.Text = "Busqueda por Arbol Binario";
+            label1.Text = "Busqueda por Árbol Binario";
             // 
             // button1
             // 
@@ -205,16 +215,6 @@
             button1.Text = "Atras";
             button1.UseVisualStyleBackColor = true;
             button1.Click += cambiarAlPanelArbolBB_Click;
-            // 
-            // label8
-            // 
-            label8.AutoSize = true;
-            label8.Font = new Font("Segoe UI Semibold", 10.2F, FontStyle.Bold | FontStyle.Italic, GraphicsUnit.Point, 0);
-            label8.Location = new Point(331, 258);
-            label8.Name = "label8";
-            label8.Size = new Size(172, 23);
-            label8.TabIndex = 15;
-            label8.Text = "Ordenar por InOrden";
             // 
             // FormArbolBB_Ejemplo
             // 

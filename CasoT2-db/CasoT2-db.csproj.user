@@ -10,6 +10,9 @@
     <Compile Update="Formularios\FormExplicacion.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="Formularios\FormExplicacion1.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Update="Formularios\FormExplicacion2.cs">
       <SubType>Form</SubType>
     </Compile>

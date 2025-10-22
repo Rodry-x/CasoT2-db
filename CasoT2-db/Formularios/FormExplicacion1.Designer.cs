@@ -1,6 +1,6 @@
 ﻿namespace CasoT2_db.Formularios
 {
-    partial class FormExplicacion2
+    partial class FormExplicacion1
     {
         /// <summary>
         /// Required designer variable.
@@ -28,80 +28,81 @@
         /// </summary>
         private void InitializeComponent()
         {
-            panelExplicacion2 = new Panel();
+            panelExplicacion1 = new Panel();
             button3 = new Button();
             pictureBox1 = new PictureBox();
-            label3 = new Label();
+            label2 = new Label();
             button2 = new Button();
             button1 = new Button();
             label1 = new Label();
-            panelExplicacion2.SuspendLayout();
+            button4 = new Button();
+            panelExplicacion1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)pictureBox1).BeginInit();
             SuspendLayout();
             // 
-            // panelExplicacion2
+            // panelExplicacion1
             // 
-            panelExplicacion2.Controls.Add(button3);
-            panelExplicacion2.Controls.Add(pictureBox1);
-            panelExplicacion2.Controls.Add(label3);
-            panelExplicacion2.Controls.Add(button2);
-            panelExplicacion2.Controls.Add(button1);
-            panelExplicacion2.Controls.Add(label1);
-            panelExplicacion2.Location = new Point(6, 5);
-            panelExplicacion2.Name = "panelExplicacion2";
-            panelExplicacion2.Size = new Size(550, 630);
-            panelExplicacion2.TabIndex = 0;
+            panelExplicacion1.Controls.Add(button4);
+            panelExplicacion1.Controls.Add(button3);
+            panelExplicacion1.Controls.Add(pictureBox1);
+            panelExplicacion1.Controls.Add(label2);
+            panelExplicacion1.Controls.Add(button2);
+            panelExplicacion1.Controls.Add(button1);
+            panelExplicacion1.Controls.Add(label1);
+            panelExplicacion1.Location = new Point(6, 5);
+            panelExplicacion1.Name = "panelExplicacion1";
+            panelExplicacion1.Size = new Size(550, 630);
+            panelExplicacion1.TabIndex = 0;
             // 
             // button3
             // 
-            button3.Location = new Point(124, 359);
+            button3.Location = new Point(283, 338);
             button3.Name = "button3";
-            button3.Size = new Size(124, 44);
-            button3.TabIndex = 7;
-            button3.Text = "Ver diapositiva";
+            button3.Size = new Size(135, 44);
+            button3.TabIndex = 8;
+            button3.Text = "Ver el video";
             button3.UseVisualStyleBackColor = true;
-            button3.Click += verDiapositiva_Click;
+            button3.Click += abriElVideoExplicacionPDF_Click;
             // 
             // pictureBox1
             // 
-            pictureBox1.Image = Properties.Resources.imagenBodega1;
-            pictureBox1.Location = new Point(109, 114);
+            pictureBox1.Image = Properties.Resources.imagenLibro;
+            pictureBox1.Location = new Point(100, 111);
             pictureBox1.Name = "pictureBox1";
-            pictureBox1.Size = new Size(352, 236);
+            pictureBox1.Size = new Size(340, 208);
             pictureBox1.SizeMode = PictureBoxSizeMode.Zoom;
-            pictureBox1.TabIndex = 6;
+            pictureBox1.TabIndex = 7;
             pictureBox1.TabStop = false;
             // 
-            // label3
+            // label2
             // 
-            label3.AutoSize = true;
-            label3.Font = new Font("Segoe UI Semibold", 10.2F, FontStyle.Bold | FontStyle.Italic, GraphicsUnit.Point, 0);
-            label3.Location = new Point(54, 88);
-            label3.Name = "label3";
-            label3.Size = new Size(194, 23);
-            label3.TabIndex = 4;
-            label3.Text = "Explicando el ejercicio 1";
+            label2.AutoSize = true;
+            label2.Font = new Font("Segoe UI Semibold", 10.2F, FontStyle.Bold | FontStyle.Italic, GraphicsUnit.Point, 0);
+            label2.Location = new Point(36, 85);
+            label2.Name = "label2";
+            label2.Size = new Size(150, 23);
+            label2.TabIndex = 6;
+            label2.Text = "Explicando El PDF";
             // 
             // button2
             // 
-            button2.Location = new Point(303, 359);
+            button2.Location = new Point(434, 580);
             button2.Name = "button2";
-            button2.Size = new Size(135, 44);
+            button2.Size = new Size(110, 46);
             button2.TabIndex = 5;
-            button2.Text = "Ver el Video";
+            button2.Text = "Siguiente";
             button2.UseVisualStyleBackColor = true;
-            button2.Click += abrirElVideo_ExplicandoCodigoEjemplo1_Click;
+            button2.Click += cambiarAlPanelExplicacion;
             // 
             // button1
             // 
-            button1.Font = new Font("Segoe UI", 10F);
             button1.Location = new Point(6, 580);
             button1.Name = "button1";
             button1.Size = new Size(120, 46);
-            button1.TabIndex = 3;
+            button1.TabIndex = 4;
             button1.Text = "Atras";
             button1.UseVisualStyleBackColor = true;
-            button1.Click += cambiarAlPanelExplicacion;
+            button1.Click += cambiarAlPanelPrincipal;
             // 
             // label1
             // 
@@ -110,31 +111,42 @@
             label1.Location = new Point(185, 16);
             label1.Name = "label1";
             label1.Size = new Size(169, 41);
-            label1.TabIndex = 2;
+            label1.TabIndex = 3;
             label1.Text = "Explicación";
             // 
-            // FormExplicacion2
+            // button4
+            // 
+            button4.Location = new Point(120, 338);
+            button4.Name = "button4";
+            button4.Size = new Size(127, 44);
+            button4.TabIndex = 9;
+            button4.Text = "Descargar PDF";
+            button4.UseVisualStyleBackColor = true;
+            button4.Click += abrirDescargaPDF_Click;
+            // 
+            // FormExplicacion1
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(562, 643);
-            Controls.Add(panelExplicacion2);
-            Name = "FormExplicacion2";
-            Text = "FormExplicacion2";
-            panelExplicacion2.ResumeLayout(false);
-            panelExplicacion2.PerformLayout();
+            Controls.Add(panelExplicacion1);
+            Name = "FormExplicacion1";
+            Text = "FormExplicacion1";
+            panelExplicacion1.ResumeLayout(false);
+            panelExplicacion1.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)pictureBox1).EndInit();
             ResumeLayout(false);
         }
 
         #endregion
 
-        private Panel panelExplicacion2;
+        private Panel panelExplicacion1;
         private Label label1;
         private Button button1;
         private Button button2;
-        private Label label3;
-        private PictureBox pictureBox1;
         private Button button3;
+        private PictureBox pictureBox1;
+        private Label label2;
+        private Button button4;
     }
 }

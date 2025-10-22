@@ -3,28 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\rodry\\source\\repos\\CasoT2-db\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{02F173BD-6CC6-4C9B-BC29-9AE975ACF5FD}|CasoT2-db\\CasoT2-db.csproj|c:\\users\\rodry\\source\\repos\\casot2-db\\casot2-db\\formularios\\formexplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{02F173BD-6CC6-4C9B-BC29-9AE975ACF5FD}|CasoT2-db\\CasoT2-db.csproj|solutionrelative:casot2-db\\formularios\\formexplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{02F173BD-6CC6-4C9B-BC29-9AE975ACF5FD}|CasoT2-db\\CasoT2-db.csproj|c:\\users\\rodry\\source\\repos\\casot2-db\\casot2-db\\formularios\\formexplicacion1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02F173BD-6CC6-4C9B-BC29-9AE975ACF5FD}|CasoT2-db\\CasoT2-db.csproj|solutionrelative:casot2-db\\formularios\\formexplicacion1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{02F173BD-6CC6-4C9B-BC29-9AE975ACF5FD}|CasoT2-db\\CasoT2-db.csproj|c:\\users\\rodry\\source\\repos\\casot2-db\\casot2-db\\formularios\\formexplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{02F173BD-6CC6-4C9B-BC29-9AE975ACF5FD}|CasoT2-db\\CasoT2-db.csproj|solutionrelative:casot2-db\\formularios\\formexplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{02F173BD-6CC6-4C9B-BC29-9AE975ACF5FD}|CasoT2-db\\CasoT2-db.csproj|c:\\users\\rodry\\source\\repos\\casot2-db\\casot2-db\\formularios\\formexplicacion2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{02F173BD-6CC6-4C9B-BC29-9AE975ACF5FD}|CasoT2-db\\CasoT2-db.csproj|solutionrelative:casot2-db\\formularios\\formexplicacion2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{02F173BD-6CC6-4C9B-BC29-9AE975ACF5FD}|CasoT2-db\\CasoT2-db.csproj|c:\\users\\rodry\\source\\repos\\casot2-db\\casot2-db\\formularios\\formexplicacion2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{02F173BD-6CC6-4C9B-BC29-9AE975ACF5FD}|CasoT2-db\\CasoT2-db.csproj|solutionrelative:casot2-db\\formularios\\formexplicacion2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{02F173BD-6CC6-4C9B-BC29-9AE975ACF5FD}|CasoT2-db\\CasoT2-db.csproj|c:\\users\\rodry\\source\\repos\\casot2-db\\casot2-db\\formularios\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{02F173BD-6CC6-4C9B-BC29-9AE975ACF5FD}|CasoT2-db\\CasoT2-db.csproj|solutionrelative:casot2-db\\formularios\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{02F173BD-6CC6-4C9B-BC29-9AE975ACF5FD}|CasoT2-db\\CasoT2-db.csproj|c:\\users\\rodry\\source\\repos\\casot2-db\\casot2-db\\formularios\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{02F173BD-6CC6-4C9B-BC29-9AE975ACF5FD}|CasoT2-db\\CasoT2-db.csproj|solutionrelative:casot2-db\\formularios\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{02F173BD-6CC6-4C9B-BC29-9AE975ACF5FD}|CasoT2-db\\CasoT2-db.csproj|c:\\users\\rodry\\source\\repos\\casot2-db\\casot2-db\\formularios\\formexplicacion1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{02F173BD-6CC6-4C9B-BC29-9AE975ACF5FD}|CasoT2-db\\CasoT2-db.csproj|solutionrelative:casot2-db\\formularios\\formexplicacion1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,78 +38,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "FormExplicacion2.cs",
-              "DocumentMoniker": "C:\\Users\\rodry\\source\\repos\\CasoT2-db\\CasoT2-db\\Formularios\\FormExplicacion2.cs",
-              "RelativeDocumentMoniker": "CasoT2-db\\Formularios\\FormExplicacion2.cs",
-              "ToolTip": "C:\\Users\\rodry\\source\\repos\\CasoT2-db\\CasoT2-db\\Formularios\\FormExplicacion2.cs",
-              "RelativeToolTip": "CasoT2-db\\Formularios\\FormExplicacion2.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "FormExplicacion1.cs",
+              "DocumentMoniker": "C:\\Users\\rodry\\source\\repos\\CasoT2-db\\CasoT2-db\\Formularios\\FormExplicacion1.cs",
+              "RelativeDocumentMoniker": "CasoT2-db\\Formularios\\FormExplicacion1.cs",
+              "ToolTip": "C:\\Users\\rodry\\source\\repos\\CasoT2-db\\CasoT2-db\\Formularios\\FormExplicacion1.cs",
+              "RelativeToolTip": "CasoT2-db\\Formularios\\FormExplicacion1.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA1wCAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T07:32:53.73Z",
+              "WhenOpened": "2025-10-22T14:46:46.594Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "FormExplicacion2.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\rodry\\source\\repos\\CasoT2-db\\CasoT2-db\\Formularios\\FormExplicacion2.cs",
-              "RelativeDocumentMoniker": "CasoT2-db\\Formularios\\FormExplicacion2.cs",
-              "ToolTip": "C:\\Users\\rodry\\source\\repos\\CasoT2-db\\CasoT2-db\\Formularios\\FormExplicacion2.cs [Dise\u00F1o]",
-              "RelativeToolTip": "CasoT2-db\\Formularios\\FormExplicacion2.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T07:32:52.629Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "FormPrincipal.cs",
-              "DocumentMoniker": "C:\\Users\\rodry\\source\\repos\\CasoT2-db\\CasoT2-db\\Formularios\\FormPrincipal.cs",
-              "RelativeDocumentMoniker": "CasoT2-db\\Formularios\\FormPrincipal.cs",
-              "ToolTip": "C:\\Users\\rodry\\source\\repos\\CasoT2-db\\CasoT2-db\\Formularios\\FormPrincipal.cs",
-              "RelativeToolTip": "CasoT2-db\\Formularios\\FormPrincipal.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T07:32:43.087Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "FormPrincipal.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\rodry\\source\\repos\\CasoT2-db\\CasoT2-db\\Formularios\\FormPrincipal.cs",
-              "RelativeDocumentMoniker": "CasoT2-db\\Formularios\\FormPrincipal.cs",
-              "ToolTip": "C:\\Users\\rodry\\source\\repos\\CasoT2-db\\CasoT2-db\\Formularios\\FormPrincipal.cs [Dise\u00F1o]",
-              "RelativeToolTip": "CasoT2-db\\Formularios\\FormPrincipal.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T07:32:40.787Z",
-              "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "FormExplicacion.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\rodry\\source\\repos\\CasoT2-db\\CasoT2-db\\Formularios\\FormExplicacion.cs",
-              "RelativeDocumentMoniker": "CasoT2-db\\Formularios\\FormExplicacion.cs",
-              "ToolTip": "C:\\Users\\rodry\\source\\repos\\CasoT2-db\\CasoT2-db\\Formularios\\FormExplicacion.cs [Dise\u00F1o]",
-              "RelativeToolTip": "CasoT2-db\\Formularios\\FormExplicacion.cs [Dise\u00F1o]",
+              "Title": "FormExplicacion1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\rodry\\source\\repos\\CasoT2-db\\CasoT2-db\\Formularios\\FormExplicacion1.cs",
+              "RelativeDocumentMoniker": "CasoT2-db\\Formularios\\FormExplicacion1.cs",
+              "ToolTip": "C:\\Users\\rodry\\source\\repos\\CasoT2-db\\CasoT2-db\\Formularios\\FormExplicacion1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CasoT2-db\\Formularios\\FormExplicacion1.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T07:29:08.196Z",
+              "WhenOpened": "2025-10-22T14:34:22.614Z",
               "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "FormExplicacion.cs",
-              "DocumentMoniker": "C:\\Users\\rodry\\source\\repos\\CasoT2-db\\CasoT2-db\\Formularios\\FormExplicacion.cs",
-              "RelativeDocumentMoniker": "CasoT2-db\\Formularios\\FormExplicacion.cs",
-              "ToolTip": "C:\\Users\\rodry\\source\\repos\\CasoT2-db\\CasoT2-db\\Formularios\\FormExplicacion.cs",
-              "RelativeToolTip": "CasoT2-db\\Formularios\\FormExplicacion.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T07:20:25.953Z",
-              "EditorCaption": ""
             }
           ]
         }

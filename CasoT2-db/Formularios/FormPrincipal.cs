@@ -15,7 +15,7 @@ namespace CasoT2_db.Formularios
 
         // Instancias de los formularios secundarios
         private FormArbolBB formArbolBB;
-        private FormExplicacion formExplicacion;
+        private FormExplicacion1 formExplicacion1;
 
         private void cambiarAlPanelArbolBB(object sender, EventArgs e)
         {
@@ -25,8 +25,8 @@ namespace CasoT2_db.Formularios
 
         private void cambiarAlPanelExplicacion(object sender, EventArgs e)
         {
-            formExplicacion = new FormExplicacion();
-            PanelController.CambiarPanel(panelPrincipal, formExplicacion.PanelExplicacion);
+            formExplicacion1 = new FormExplicacion1();
+            PanelController.CambiarPanel(panelPrincipal, formExplicacion1.PanelExplicacion1);
         }
     }
 }
