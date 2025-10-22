@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CasoT2-db")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bc8aa1ab3939e6b80535ddd609c31d5b020e0483")]
 [assembly: System.Reflection.AssemblyProductAttribute("CasoT2-db")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CasoT2-db")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

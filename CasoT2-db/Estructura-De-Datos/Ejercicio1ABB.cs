@@ -19,6 +19,7 @@ namespace CasoT2_db.Estructura_De_Datos
 
         private void InsertarRec(NodoEjercicioABB nodo, int codigo, string nombre)
         {
+            // izquierda menor, derecha mayor
             if (codigo < nodo.Codigo)
             {
                 if (nodo.Izquierdo == null)
@@ -43,10 +44,12 @@ namespace CasoT2_db.Estructura_De_Datos
             }
         }
 
-        // Devuelve una cadena con los elementos en InOrden (mantengo tu formato)
-        public string MostrarInOrden()
+        // Devuelve la lista InOrden como pares (codigo, nombre)
+        public List<(int Codigo, string Nombre)> ObtenerInOrden()
         {
-            return MostrarInOrdenRec(raiz).TrimEnd(',', ' ');
+            var lista = new List<(int, string)>();
+            ObtenerInOrdenRec(raiz, lista);
+            return lista;
         }
 
         private string MostrarInOrdenRec(NodoEjercicioABB? nodo)
@@ -57,14 +60,6 @@ namespace CasoT2_db.Estructura_De_Datos
             resultado += $"{nodo.Codigo}-{nodo.Nombre}, ";
             resultado += MostrarInOrdenRec(nodo.Derecho);
             return resultado;
-        }
-
-        // Devuelve la lista InOrden como pares (codigo, nombre)
-        public List<(int Codigo, string Nombre)> ObtenerInOrden()
-        {
-            var lista = new List<(int, string)>();
-            ObtenerInOrdenRec(raiz, lista);
-            return lista;
         }
 
         private void ObtenerInOrdenRec(NodoEjercicioABB? nodo, List<(int Codigo, string Nombre)> lista)
@@ -88,13 +83,6 @@ namespace CasoT2_db.Estructura_De_Datos
             return codigo < nodo.Codigo
                 ? BuscarPorCodigoRec(nodo.Izquierdo, codigo)
                 : BuscarPorCodigoRec(nodo.Derecho, codigo);
-        }
-
-        // Método auxiliar: busca el nombre por código (null si no existe)
-        public string? BuscarNombrePorCodigo(int codigo)
-        {
-            var nodo = BuscarPorCodigo(codigo);
-            return nodo?.Nombre;
         }
     }
 }

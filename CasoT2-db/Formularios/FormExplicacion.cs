@@ -28,18 +28,18 @@ namespace CasoT2_db.Formularios
 
         private void abrirElVideo_PreInPostOrden_Click(object sender, EventArgs e)
         {
-            AbrirUrl.AbrirEnNavegador("https://drive.google.com/file/d/1-LXjo4f7W8ePCNoOktrgFCP5rO9SlpVF/view?usp=drive_link");
+            AbrirUrl.AbrirEnNavegador("https://drive.google.com/file/d/1r7uKWGVv6ZoOtQx8J4Is8_sagSKC3efo/view?usp=sharing");
+        }
+
+        private void abrirElVideo_Ejemplo1_Click(object sender, EventArgs e)
+        {
+            AbrirUrl.AbrirEnNavegador("https://drive.google.com/file/d/1nMGsIkshfsdCf26KN2B8PFjG2O--vc74/view?usp=sharing");
         }
 
         private void cambiarAlPanelExplicacion2_Click(object sender, EventArgs e)
         {
             formExplicacion2 = new FormExplicacion2();
             PanelController.CambiarPanel(panelExplicacion, formExplicacion2.PanelExplicacion2);
-        }
-
-        private void abrirElVideo_Ejemplo1_Click(object sender, EventArgs e)
-        {
-            AbrirUrl.AbrirEnNavegador("https://drive.google.com/file/d/1X2u7__lCrGvREgI4uhtUNF7ssIcxKtqB/view?usp=drive_link");
         }
     }
 }

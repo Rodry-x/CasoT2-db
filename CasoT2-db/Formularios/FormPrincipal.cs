@@ -17,7 +17,6 @@ namespace CasoT2_db.Formularios
         private FormArbolBB formArbolBB;
         private FormExplicacion formExplicacion;
 
-
         private void cambiarAlPanelArbolBB(object sender, EventArgs e)
         {
             formArbolBB = new FormArbolBB();

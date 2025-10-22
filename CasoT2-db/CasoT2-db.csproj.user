@@ -4,9 +4,6 @@
     <Compile Update="Formularios\FormArbolBB_Ejemplo.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="Formularios\FormArbolPregunta.cs">
-      <SubType>Form</SubType>
-    </Compile>
     <Compile Update="Formularios\FormArbolBB.cs">
       <SubType>Form</SubType>
     </Compile>

@@ -2,6 +2,7 @@
 {
     internal class NodoEjercicioABB
     {
+        // Atributos del nodo
         private int codigo;
         private string nombre;
         private NodoEjercicioABB? izquierdo;

@@ -34,14 +34,12 @@
             button2 = new Button();
             button1 = new Button();
             label1 = new Label();
-            button3 = new Button();
             panelExplicacion2.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)pictureBox1).BeginInit();
             SuspendLayout();
             // 
             // panelExplicacion2
             // 
-            panelExplicacion2.Controls.Add(button3);
             panelExplicacion2.Controls.Add(pictureBox1);
             panelExplicacion2.Controls.Add(label3);
             panelExplicacion2.Controls.Add(button2);
@@ -103,16 +101,6 @@
             label1.TabIndex = 2;
             label1.Text = "Explicación";
             // 
-            // button3
-            // 
-            button3.Location = new Point(400, 580);
-            button3.Name = "button3";
-            button3.Size = new Size(144, 46);
-            button3.TabIndex = 7;
-            button3.Text = "Form Descartado";
-            button3.UseVisualStyleBackColor = true;
-            button3.Click += cambiandoAlPanelArbolPregunta_Click;
-            // 
             // FormExplicacion2
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
@@ -135,6 +123,5 @@
         private Button button2;
         private Label label3;
         private PictureBox pictureBox1;
-        private Button button3;
     }
 }

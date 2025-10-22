@@ -9,7 +9,7 @@ namespace CasoT2_db.Formularios
         {
             InitializeComponent();
         }
-        private FormArbolPregunta formArbolPregunta;
+
         private FormExplicacion formExplicacion;
         public Panel PanelExplicacion2 => panelExplicacion2;
 
@@ -19,15 +19,9 @@ namespace CasoT2_db.Formularios
             PanelController.CambiarPanel(panelExplicacion2, formExplicacion.PanelExplicacion);
         }
 
-        private void cambiandoAlPanelArbolPregunta_Click(object sender, EventArgs e)
-        {
-            formArbolPregunta = new FormArbolPregunta();
-            PanelController.CambiarPanel(panelExplicacion2, formArbolPregunta.PanelABB2);
-        }
-
         private void abrirElVideo_ExplicandoCodigoEjemplo1_Click(object sender, EventArgs e)
         {
-            // AbrirUrl.AbrirEnNavegador("Poner la URL del video acá");
+            //AbrirUrl.AbrirEnNavegador("Poner la URL del video acá");
         }
     }
 }
